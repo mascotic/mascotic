@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mascotic
+- 👋 Hi, I’m @salih
 - 👀 I’m interested in computers and software
 - 🌱 I’m currently learning computer science basics and web development
 - 💞️ I’m looking to collaborate on web development
